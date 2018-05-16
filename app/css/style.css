@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(to right bottom ,#45415E 0% , #5B7D87 100%) no-repeat center center fixed;
+}
+
+h1 {
+    color: #91B3BC;
+}
+
+label {
+    color: #8EB9CE;
+    letter-spacing: 1.75px;
+    font-size: 13px;
+}
+
+hr {
+border-color: #91B3BC
+}
+
+input, select, textarea{
+    color: #597A84;
+    font-size: 16px;
+    border:1px solid ;
+    border-color: red;
+}
+
+#insta {
+    background: #F6F9FA;
+}
+
+#linka {
+    background: #F6F9FA;
+}
+
+#btn_cancel {
+    border-color: #B4D1DE;
+    border: 2px;
+    color: #438BAD;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 14px;
+    display: inline-block;
+    width: 120px;
+}
+
+#btn_save {
+    border: 2px;
+    color: #fff;
+    background-color: #E4B030;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 14px;
+    display: inline-block;
+    width: 120px;
+}
+
+.popover-content {
+    color: #597A84;
+    font-size: 14px;
+}
